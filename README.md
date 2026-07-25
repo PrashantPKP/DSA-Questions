@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PrashantPKP/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PrashantPKP/DSA-Questions/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PrashantPKP/DSA-Questions/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PrashantPKP/DSA-Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
