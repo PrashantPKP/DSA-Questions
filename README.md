@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/PrashantPKP/DSA-Questions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/PrashantPKP/DSA-Questions/tree/master/0048-rotate-image) |
+| [0217-contains-duplicate](https://github.com/PrashantPKP/DSA-Questions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PrashantPKP/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrashantPKP/DSA-Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/PrashantPKP/DSA-Questions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/PrashantPKP/DSA-Questions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrashantPKP/DSA-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PrashantPKP/DSA-Questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
